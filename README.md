@@ -67,7 +67,7 @@ A walkthrough video demonstrating the functionality of the application is availa
 
 Include a screenshot of your API routes being tested in Insomnia Core.
 
-![Screenshot](maki/images/Screenshot%202024-08-18%20032554.png)
+![Screenshot](Maki/images/Screenshot%202024-08-18%20032554.png)
 
 ## License
 
